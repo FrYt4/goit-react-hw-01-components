@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FrYt4/goit-react-hw-01-components.git/static/css/main.7acaea2f.css",
+    "main.js": "/FrYt4/goit-react-hw-01-components.git/static/js/main.5a04e1f2.js",
+    "index.html": "/FrYt4/goit-react-hw-01-components.git/index.html",
+    "main.7acaea2f.css.map": "/FrYt4/goit-react-hw-01-components.git/static/css/main.7acaea2f.css.map",
+    "main.5a04e1f2.js.map": "/FrYt4/goit-react-hw-01-components.git/static/js/main.5a04e1f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.5a04e1f2.js"
+  ]
+}
